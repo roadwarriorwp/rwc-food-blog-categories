@@ -17,6 +17,7 @@ The Food Blog Categories plugin adds recipe related taxonomies to blog posts. In
 1. **Visit** Plugins > Add New in the WordPress admin dashboard
 2. **Search** for "Food Blog Categories"
 3. **Install** and then **Activate** Food Blog Categories from your Plugins page
+3. **Navigate** to the taxonomies and add your terms
 
 == Screenshots ==
 
